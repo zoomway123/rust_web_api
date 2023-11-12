@@ -1,0 +1,32 @@
+# Compiled binary
+/target/
+/debug/
+# Cargo lock file
+Cargo.lock
+
+# Cargo workspace settings
+.workspace
+
+# Generated documentation
+doc/
+
+# Automatically generated files and directories
+target/
+Cargo.toml.orig
+
+# Environment-specific files
+*.swp
+*.swo
+*.swm
+*.swl
+*.bak
+*.bk
+*~
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# macOS directory attributes
+.DS_Store
