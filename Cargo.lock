@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "RustWebAPI"
+name = "rust_web_api"
 version = "0.1.0"
